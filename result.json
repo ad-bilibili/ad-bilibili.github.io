@@ -1,0 +1,51 @@
+/**
+ * 技术信息：请求参数
+ * 请参考: https://bazhan.me/faq
+*/
+{
+    "directory": "goodads-cn-72b9bc16",
+    "options": {
+        "url": "http://goodads.cn/bilibili",
+        "ipaddress": "114.55.219.121",
+        "domain": "goodads.cn",
+        "request": {
+            "headers": {
+                "Accept": "text/html,*/*",
+                "Accept-language": "zh-CN,zh;q=0.9",
+                "Accept-Encoding": "gzip",
+                "Cache-control": "no-cache",
+                "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "X-Scraper-WebSite": "https://bazhan.me/",
+                "cookie": "PHPSESSID=flcf0s20smcna0incg4alq9ct7"
+            }
+        },
+        "response": {
+            "statusCode": 200,
+            "headers": {
+                "cache-control": "no-store, no-cache, must-revalidate, post-check=0, pre-check=0",
+                "pragma": "no-cache",
+                "content-length": "6652",
+                "content-type": "text/html; charset=utf-8",
+                "expires": "Thu, 19 Nov 1981 08:52:00 GMT",
+                "server": "Microsoft-IIS/7.5",
+                "x-powered-by": "ASP.NET",
+                "date": "Thu, 02 Jul 2020 04:33:35 GMT",
+                "connection": "close"
+            }
+        }
+    },
+    "formatter": {
+        "css": false,
+        "html": false,
+        "javascript": false,
+        "save-original": true
+    },
+    "user": {
+        "isWhite": false
+    },
+    "time": {
+        "start": 1593664415603,
+        "end": 1593664426548,
+        "spend": "10.945s"
+    }
+}

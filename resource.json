@@ -1,0 +1,159 @@
+/**
+ * 技术信息：资源信息
+ * 请参考: https://bazhan.me/faq
+*/
+{
+    "success": [
+        {
+            "url": "http://goodads.cn/bilibili",
+            "path": "index.html",
+            "children": [
+                {
+                    "url": "http://goodads.cn/image/bg/bili.jpg",
+                    "path": "images/bili.jpg",
+                    "children": []
+                },
+                {
+                    "url": "http://goodads.cn/image/top/bilibg.png",
+                    "path": "images/bilibg.png",
+                    "children": []
+                },
+                {
+                    "url": "http://goodads.cn/image/top/bili.png",
+                    "path": "images/bili.png",
+                    "children": []
+                },
+                {
+                    "url": "http://goodads.cn/captcha.html",
+                    "path": "images/captcha.png",
+                    "children": []
+                },
+                {
+                    "url": "http://vjs.zencdn.net/c/video.js",
+                    "path": "js/video.js",
+                    "children": []
+                },
+                {
+                    "url": "http://goodads.cn/static/js/jquery.min.js",
+                    "path": "js/jquery.min.js",
+                    "children": []
+                },
+                {
+                    "url": "http://goodads.cn/static/js/bootstrap.min.js",
+                    "path": "js/bootstrap.min.js",
+                    "children": []
+                },
+                {
+                    "url": "http://goodads.cn/static/js/layer.js",
+                    "path": "js/layer.js",
+                    "children": []
+                },
+                {
+                    "url": "http://goodads.cn/static/js/common.js",
+                    "path": "js/common.js",
+                    "children": []
+                },
+                {
+                    "url": "http://goodads.cn/static/css/bootstrap.min.css",
+                    "path": "css/bootstrap.min.css",
+                    "children": [
+                        {
+                            "url": "http://goodads.cn/static/fonts/glyphicons-halflings-regular.eot",
+                            "path": "fonts/glyphicons-halflings-regular.eot",
+                            "children": []
+                        },
+                        {
+                            "url": "http://goodads.cn/static/fonts/glyphicons-halflings-regular.woff",
+                            "path": "fonts/glyphicons-halflings-regular.woff",
+                            "children": []
+                        },
+                        {
+                            "url": "http://goodads.cn/static/fonts/glyphicons-halflings-regular.ttf",
+                            "path": "fonts/glyphicons-halflings-regular.ttf",
+                            "children": []
+                        },
+                        {
+                            "url": "http://goodads.cn/static/fonts/glyphicons-halflings-regular.svg#glyphicons-halflingsregular",
+                            "path": "images/glyphicons-halflings-regular.svgz",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "http://goodads.cn/static/css/font-awesome.min.css",
+                    "path": "css/font-awesome.min.css",
+                    "children": [
+                        {
+                            "url": "http://goodads.cn/static/fonts/fontawesome-webfont.eot?v=4.0.3",
+                            "path": "fonts/fontawesome-webfont.eot",
+                            "children": []
+                        },
+                        {
+                            "url": "http://goodads.cn/static/fonts/fontawesome-webfont.eot?#iefix&v=4.0.3",
+                            "path": "fonts/fontawesome-webfont_1.eot",
+                            "children": []
+                        },
+                        {
+                            "url": "http://goodads.cn/static/fonts/fontawesome-webfont.woff?v=4.0.3",
+                            "path": "fonts/fontawesome-webfont.woff",
+                            "children": []
+                        },
+                        {
+                            "url": "http://goodads.cn/static/fonts/fontawesome-webfont.ttf?v=4.0.3",
+                            "path": "fonts/fontawesome-webfont.ttf",
+                            "children": []
+                        },
+                        {
+                            "url": "http://goodads.cn/static/fonts/fontawesome-webfont.svg?v=4.0.3#fontawesomeregular",
+                            "path": "images/fontawesome-webfont.svgz",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "http://goodads.cn/static/css/AdminLTE.css",
+                    "path": "css/AdminLTE.css",
+                    "children": [
+                        {
+                            "url": "http://goodads.cn/static/images/ajax-loader1.gif",
+                            "path": "images/ajax-loader1.gif",
+                            "children": []
+                        },
+                        {
+                            "url": "http://goodads.cn/static/images/blur-background09.jpg",
+                            "path": "images/blur-background09.jpg",
+                            "children": []
+                        },
+                        {
+                            "url": "http://goodads.cn/static/css/iCheck/minimal/minimal.png",
+                            "path": "images/minimal.png",
+                            "children": []
+                        },
+                        {
+                            "url": "http://goodads.cn/static/css/iCheck/minimal/minimal@2x.png",
+                            "path": "images/minimal@2x.png",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "http://vjs.zencdn.net/c/video-js.css",
+                    "path": "css/video-js.css",
+                    "children": [
+                        {
+                            "url": "http://vjs.zencdn.net/c/video-js.png",
+                            "path": "images/video-js.png",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "http://goodads.cn/image/icon/bili.png",
+                    "path": "images/bili_1.png",
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "failures": []
+}
